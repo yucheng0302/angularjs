@@ -1,1 +1,1 @@
-print "This line should dfdfddNOT be printed"
+print "This line should be printed"
